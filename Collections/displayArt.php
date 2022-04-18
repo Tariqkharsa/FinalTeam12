@@ -53,7 +53,7 @@ while ($rows = mysqli_fetch_array($query))
     <body>
     <!--following is nav bar-->
         <div class="header-container">
-            <a href= "../front.php"><img class= "logo" src="../images/museum.jpeg" alt="logo"></a>
+            <a href= "../front.php"><img class= "logo" src="../images/Museum.jpeg" alt="logo"></a>
             
                 <ul class= "nav-links">
                 <li class="nav-item name"><?php
